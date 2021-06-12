@@ -20,5 +20,7 @@ I tried different transfer learning models on this dataset but got higher accura
 # How to run -
 Clone this project onto your google colab and download the dataset of the link provided and you are good to go.
 
+![2](3.PNG)
+
 ![1](2.PNG)
 
