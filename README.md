@@ -20,5 +20,5 @@ I tried different transfer learning models on this dataset but got higher accura
 # How to run -
 Clone this project onto your google colab and download the dataset of the link provided and you are good to go.
 
-![1](https://github.com/rajeevsingla780/Face-Recognition-Using-Deep-Learning-and-Opencv/edit/main/1.png)
+![1](https://github.com/rajeevsingla780/Face-Recognition-Using-Deep-Learning-and-Opencv/edit/main/2.PNG)
 
