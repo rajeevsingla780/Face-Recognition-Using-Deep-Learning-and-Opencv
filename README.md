@@ -18,5 +18,7 @@ Then We trained  VGG16 Model on our  dataset  and got an validation accuracy of 
 I tried different transfer learning models on this dataset but got higher accuracy with VGG16 
 
 # How to run -
-Clone this project onto your google colab and download the dataset of the link provided and you aregood to go.
+Clone this project onto your google colab and download the dataset of the link provided and you are good to go.
+
+![1](https://github.com/rajeevsingla780/Face-Recognition-Using-Deep-Learning-and-Opencv/edit/main/1.png)
 
